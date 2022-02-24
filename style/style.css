@@ -28,7 +28,7 @@ body .main-wrapper {
   background: gray;
 }
 body .main-wrapper .bottom {
-  width: 100%;
+  width: 1250px;
   height: 25%;
   position: relative;
   display: flex;
